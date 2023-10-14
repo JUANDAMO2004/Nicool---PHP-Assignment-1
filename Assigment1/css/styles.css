@@ -1,0 +1,88 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #ab3bc769, #8f94fb); 
+}
+
+
+.container_fluid {
+    padding: 0;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-toggler-icon {
+    background-color: #1b9c0a6e;
+}
+
+.nav-link {
+    color: #fff ;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    border-color: #fff;
+}
+
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-primary {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.btn-danger {
+    margin-top: 10px;
+}
+
+
+p {
+    font-weight: bold;
+}
+
+.alert {
+    margin-top: 20px;
+}
+
+
+
+
+
+footer a {
+    color: #343a40;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item {
+    background-color: #343a40;
+    border-radius: 5px;
+    margin: 0 5px;
+}
+
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+}
+
+
+.navbar-nav .nav-item.active {
+    background-color: #212529;
+}
+
